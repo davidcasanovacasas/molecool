@@ -1,5 +1,3 @@
-import molecool as mc
-#help(mc.canvas)
+import molecool
 
-print(mc.canvas.__doc__)
-
+molecool.io.open_pdb()
