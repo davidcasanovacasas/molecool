@@ -6,7 +6,7 @@ molecool
 
 
  Python package for analyzing and visualizing xyz files.
- This repository is currently under development. To do a development install, download this repository and type
+ In this repository is currently under development. To do a development install, download this repository and type
 
 ### Copyright
 
