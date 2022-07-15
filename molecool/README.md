@@ -8,6 +8,10 @@ molecool
  Python package for analyzing and visualizing xyz files.
  This repository is currently under development. To do a development install, download this repository and type
 
+This package requires the following:
+   - numpy
+   - matplotlib
+
 ### Copyright
 
 Copyright (c) 2022, david
